@@ -71,7 +71,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-square"
+      icon: "fas fa-linkedin-square"
       url: "https://www.linkedin.com/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
