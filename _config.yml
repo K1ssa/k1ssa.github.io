@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Jenny"
-  avatar : "/assets/images/Github.jpg"
+  avatar : "/assets/images/Github2.jpg"
   bio    : "I have no special talent. I am only passionately curious."
   links:
     - label: "Website"
@@ -92,7 +92,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_post"
+      path: ""
       type: posts
     values:
       layout: single
