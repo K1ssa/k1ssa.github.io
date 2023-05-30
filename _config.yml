@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Jenny"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Github.jpg"
   bio    : "I have no special talent. I am only passionately curious."
   links:
     - label: "Website"
